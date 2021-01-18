@@ -16,3 +16,10 @@ JS- For making it Dynamically typed.
 
 DELETE ALL- This button is used to delete all the task present in the list.
 So, This project basically shows the CRUD operations(Create, Read, Update, Delete).
+
+STEPS TO RUN-
+1. Create HTML file of name Index.
+2. Create CSS file for styling.
+3. Create JS file for dynamically typed of language.
+4. Debug all the files and Compile it.
+5. Run INDEX.html file . It opens a web page and there you can do your work.
