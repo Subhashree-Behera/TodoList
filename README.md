@@ -1,7 +1,11 @@
 # TodoList
+
 USE HTML,CSS, JS.
+
 HTML- For creating the frame.
+
 CSS- Use for styling purpose
+
 JS- For making it Dynamically typed.
 
 - It contains two buttons.
